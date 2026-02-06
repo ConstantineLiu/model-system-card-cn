@@ -15,6 +15,8 @@ Claude Opus 4.6 和 GPT-5-3 Codex 的 System Card 中文全文翻译。
 
 每个文件夹里有：中文翻译（Markdown）、原版 PDF、文中图片。
 
+懒得看全文的可以先看 **[速览：两篇报告的核心看点](./highlights.md)**，附原文行号引用。
+
 ## 翻译说明
 
 用 Claude Opus 4.6（通过 Claude Code CLI 调用子 Agent）翻的。顺便测试了一下这个模型的长程工作能力，结果还不错。两篇同时开跑：
